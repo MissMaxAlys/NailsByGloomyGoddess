@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nails by Gloomy Goddess</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float">
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">ABOUT</a></li>
+                <li><a href="#services">SERVICES</a></li>
+                <li><a href="#portfolio">PORTFOLIO</a></li>
+                <li><a href="#policy">POLICY</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+        <img src="assets/Logo.png" alt="Logo">
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- About Section -->
+        <section id="about">
+            <h2>MEET THE GLOOMY GODDESS</h2>
+            <div class="about">
+                <p>Hi! Alyssa is the name. Welcome... to my very own website. Here you will be able to review my work as a self taught nail tech. I'm still learning each and everyday! xoxo Gloomy Goddess  </p> 
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services">
+            <h2>SERVICES</h2>
+            <div class="services">
+                <img src="assets/Services.jpg" alt="Poster with Prices">
+            </div>
+        </section>
+
+        <!-- Portfolio Section -->
+        <section id="portfolio">
+            <h2>DESIGNS</h2>
+            <div class="gallery">
+                <img src="assets/pinknails.jpg" alt="Pink Barbie Nails">
+                <img src="assets/VapeNails.jpg" alt="Pink nail design with pink vape">
+                <img src="assets/clawingcake.jpg" alt="Balck Stilleto nals">
+                <img src="assets/frostypenguin.jpg" alt="Blue penguin nails with snow flake">
+                <img src="assets/differentcolors.jpg" alt="Black and purple nails">
+                <img src="assets/naturalart.jpg" alt="Natural nails with nail art">
+                <img src="assets/unfinishednails.jpg" alt="clear unfinished nails">
+                <img src="assets/vapenails2.jpg" alt="Pink nails">
+                <video width="640" height="480" controls autoplay muted>
+                    <source src="assets/longclaws.mp4" type="video/mp4">
+                </video>
+            </div>
+        </section>
+
+        <section id="policy">
+            <h2>POLICY</h2>
+            <div class="policy">
+                <img src="assets/policy.jpg" alt="Pricing and Booking Policy">
+            </div>
+        </section>
+
+        <style>
+            a[href^="https://wa.me"] {
+              color: #FFC0CB;
+            }
+            a[href^="mailto"] {
+              color: #FFC0CB;
+            }
+          </style>
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>...CONTACT ME TO BOOK...</h2>
+            <p>Phone: <a href="https://wa.me/+27789406520"> +27 78 940 6520 </a></p>
+            <p>Email: <a href="mailto:thegloomygoddess20@gmail.com"> thegloomygoddess20@gmail.com </a> </p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <h3>© 2024 Nails by Gloomy Goddess</h3>
+    </footer>
+
+</body>
+</html>
